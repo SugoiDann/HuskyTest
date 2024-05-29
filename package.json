@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "commitlint-config-gitmoji": "^2.3.1"
+  }
+}
